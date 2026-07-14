@@ -1,5 +1,5 @@
 # Caderno Temático: IA para Estratégia de Marketing e Organização de Conteúdo
-
+ 
 ## Contexto e Objetivos
 
 ### Por que esse tema?
