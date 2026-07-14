@@ -1,6 +1,6 @@
 # Caderno Temático: IA para Estratégia de Marketing e Organização de Conteúdo
 
-## 📌 Contexto e Objetivos
+## Contexto e Objetivos
 
 ### Por que esse tema?
 Este caderno foi criado para explorar como **Inteligência Artificial pode ser usada como ferramenta de aprendizagem ativa** na área de marketing, brand strategy e organização de conteúdo. O objetivo é não apenas aprender sobre o tema, mas documentar **como** a IA foi usada para otimizar esse aprendizado.
@@ -19,7 +19,7 @@ Este caderno foi criado para explorar como **Inteligência Artificial pode ser u
 
 ---
 
-## 📚 Curadoria de Fontes
+## Curadoria de Fontes
 
 As fontes abaixo foram selecionadas e inseridas no **NotebookLM** para análise com IA:
 
@@ -70,7 +70,7 @@ Este é o **coração do aprendizado**: documentar que prompts funcionaram, quai
 [Quais das suas fontes a IA usou para responder]
 
 **Funcionou bem?**
-✅ Sim / ⚠️ Parcialmente / ❌ Não
+Sim / Parcialmente / Não
 
 **Por que funcionou/não funcionou:**
 [Sua análise - seja honesto sobre as limitações]
@@ -92,7 +92,7 @@ Este é o **coração do aprendizado**: documentar que prompts funcionaram, quai
 [Quais das suas fontes a IA usou para responder]
 
 **Funcionou bem?**
-✅ Sim / ⚠️ Parcialmente / ❌ Não
+Sim / Parcialmente / Não
 
 **Por que funcionou/não funcionou:**
 [Sua análise]
@@ -114,7 +114,7 @@ Este é o **coração do aprendizado**: documentar que prompts funcionaram, quai
 [Quais das suas fontes a IA usou para responder]
 
 **Funcionou bem?**
-✅ Sim / ⚠️ Parcialmente / ❌ Não
+Sim / Parcialmente / Não
 
 **Por que funcionou/não funcionou:**
 [Sua análise]
@@ -136,7 +136,7 @@ Este é o **coração do aprendizado**: documentar que prompts funcionaram, quai
 [Quais das suas fontes a IA usou para responder]
 
 **Funcionou bem?**
-✅ Sim / ⚠️ Parcialmente / ❌ Não
+Sim / Parcialmente / Não
 
 **Por que funcionou/não funcionou:**
 [Sua análise]
@@ -244,7 +244,7 @@ Esses prompts foram validados e funcionam bem com esse tema. Use-os quando preci
 
 ---
 
-## 🎯 Reflexão Final
+## Reflexão Final
 
 **O que você aprendeu:**
 [Parágrafo reflexivo sobre a jornada]
@@ -257,7 +257,7 @@ Esses prompts foram validados e funcionam bem com esse tema. Use-os quando preci
 
 ---
 
-## 📌 Sobre Este Projeto
+## Sobre Este Projeto
 
 - **Criado em:** [Data]
 - **Ferramenta IA utilizada:** NotebookLM (Google)
